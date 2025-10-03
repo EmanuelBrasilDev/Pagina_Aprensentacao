@@ -1,6 +1,6 @@
 # 🌟 Página de Apresentação – Claudia Viana
 
-Este é um projeto de **portfólio pessoal** desenvolvido em **HTML e CSS** como parte de uma trilha de estudos em desenvolvimento web.  
+Este é um dos projetos para meu **portfólio pessoal**, esse foi desenvolvido em **HTML e CSS** como parte de uma trilha em desenvolvimento web.  
 A página apresenta **Claudia Viana**, promotora de vendas especialista em rejuntes e argamassas na **Rejunta Mix**.
 
 ---
